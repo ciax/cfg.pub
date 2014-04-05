@@ -1,4 +1,4 @@
 #!/bin/bash
 cd
 [ -d utils ] || git clone https://github.com/ciax/utils.git
-~/utils/setup.sh
+~/utils/setup-utils.sh
