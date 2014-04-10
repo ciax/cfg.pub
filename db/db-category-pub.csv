@@ -20,3 +20,7 @@ tablet,Tablet
 tv,Smat TV
 ups,UPS
 video,Video Server
+md,Motor Driver
+sensor,Sensor
+dps,DC Power Supply
+cntrl,Controller
