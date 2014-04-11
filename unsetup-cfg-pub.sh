@@ -1,3 +1,4 @@
 #!/bin/bash
-~/utils/unsetup-utils.sh
+unsetup=~/utils/unsetup-utils.sh
+[ -e "$unsetup" ] && $unsetup
 rm -rf ~/cfg.pub
