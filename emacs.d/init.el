@@ -1,3 +1,4 @@
+;link ~/.emacs.d/
 ;; Load Path
 (setq load-path (cons "~/.emacs.d" load-path))
 ;; Syntax Hilight 
