@@ -12,16 +12,18 @@ bbe,BB Electic
 brother,Brother
 buffalo,Buffalo
 compaq,COMPAQ
-dlink,D-Link
 dec,DEC
 dell,Dell
+dlink,D-Link
 emachines,e-machines
 epson,Epson
 eyefi,Eye-Fi
+ezcast,WiFi EZcast
 fitpc,Fit-PC
 fujitsu,Fujitsu
 gateway,GateWay
 google,Google
+gwinstek,GW Instek
 hoffer,Hoffer
 hp,Hulett Packerd
 ibm,IBM
@@ -33,8 +35,8 @@ lantronix,Lantronix
 lnksys,Linksys
 microsoft,Microsoft
 mitsubishi,Mitsubishi
-ni,National Instruments
 netgear,Netgear
+ni,National Instruments
 nintendo,Nintendo
 ohmic,Ohmic
 omega,Omega
@@ -58,5 +60,3 @@ uniden,Uniden
 varian,Varian
 visio,VISIO
 vm,Vmware(Virtual)
-ezcast,WiFi EZcast
-gwinstek,GW Instek

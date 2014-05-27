@@ -1,10 +1,13 @@
 blulay,Blulay Player
 cam,Web Camera
+cntrl,Controller
 desktop,Desktop PC
 dio,Distributed I/O
+dps,DC Power Supply
 ds,Device Server
 game,Game Console
 kvm,KVM over IP
+md,Motor Driver
 mic,Remote micro phone
 mp,Media Player
 nas,NAS
@@ -15,12 +18,9 @@ plc,PLC
 printer,Printer
 rack,Rackmount Server
 router,Router
+sensor,Sensor
 switch,Smart Switch
 tablet,Tablet
 tv,Smat TV
 ups,UPS
 video,Video Server
-md,Motor Driver
-sensor,Sensor
-dps,DC Power Supply
-cntrl,Controller
