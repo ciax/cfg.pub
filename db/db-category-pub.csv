@@ -1,6 +1,7 @@
 blulay,Blulay Player
 cam,Web Camera
 cntrl,Controller
+console,Console for PLC
 desktop,Desktop PC
 dio,Distributed I/O
 dps,DC Power Supply
@@ -24,3 +25,5 @@ tablet,Tablet
 tv,Smat TV
 ups,UPS
 video,Video Server
+wap,WIfi Access Point
+wbr,Wireless Bridge
