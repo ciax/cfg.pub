@@ -1,4 +1,4 @@
 #!/bin/bash
-unsetup=~/utils/unsetup-utils.sh
+unsetup=~/utils/bin/unsetup.sh
 [ -e "$unsetup" ] && $unsetup
 rm -rf ~/utils
