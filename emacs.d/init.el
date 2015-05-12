@@ -1,6 +1,6 @@
-;link ~/.emacs.d/lisp/
+;link ~/.emacs.d/
 ;; Load Path
-(setq load-path (cons "~/.emacs.d" load-path))
+;(setq load-path (cons "~/.emacs.d" load-path))
 ;; Syntax Hilight 
 (global-font-lock-mode t)
 ;; Paren Hilight
