@@ -1,0 +1,110 @@
+acer20	note	acer	Aspire	4520	White Note	
+acer30	note	acer	Aspire	4530	Black Note	
+asante	cam	asante		PL1029	Pan-Tilt	
+asus-hd	note	asus		N53SV	Full HD Note	
+aterm	router	nec	Aterm	BL190HW	au router	
+axis2100	cam	axis		AXIS 2100	Fixed IP Camera	
+axis2400	video	axis		AXIS 2400	Video Server	
+barix	mic	barix			Barix	
+bbe	dio	bbe		232SDD16		
+blulay	blulay	panasonic		DMP-BDT320	Blulay	
+bravia	tv	sony	Bravia	KDL-46EX711	46" TV	
+brother	printer	brother		MFC-7860W	Laser Printer	
+buffalo	router	buffalo		WZR-HP-G300H	DD-WRT	
+c200	plc	omron		C200HS		
+cfp	dio	ni	Field Point		Check Sum needed	
+cj2	plc	omron		CJ2M-CPU33	PLC for Station	
+dcs5300	cam	dlink	BDCS5300..A2	DCS 5300	Pan-Tilt	
+dell	desktop	dell				
+di804	router	dlink		DI-804-HV	VPN Router	
+dns323	nas	dlink		DNS-323	NAS 2Bay	
+ea4500	router	lnksys		EA4500	Kida Router	
+elitebook	note	hp	Elite Book	8730w	Full HD Note	
+emachines	desktop	emachines		C2881	Celeron	
+essentio	desktop	asus	Essentio	CM6870-US-3AD	Core-i7	
+ex495	nas	hp		EX495	NAS 4Bay	
+ezcast	mp	ezcast	EZcast		HDMI Dongle	
+fapc	fapc	advantech				
+fitpc	fapc	fitpc		Fit-PC2	Atom	
+fmv	note	fujitsu	FMV			
+fpa	dio	ni	Field Point	FP-AI-100	Analog Input	
+fpeth	dio	ni	Field Point	FP-1600	Old FP Network Module	
+fpsel	dio	ni	Field Point	FP-1100	Old FP Serial Module	
+gcast	mp	google	ChromeCast	Chromecast	HDMI Dongle	
+got-s	console	mitsubishi	GOT	GT1665HS-VTBD	PLC Console Handy Type	
+got-w	console	mitsubishi	GOT	GT1565-VTBA	PLC console	
+gs700	switch	netgear		GS700TS	16ch Switch with SFP	
+gw831	desktop	gateway		GW 831GM	Pentium4	
+hoffer	cntrl	hoffer			Flow Controls	
+hp2133	note	hp		HP2133	Mini Note	
+ipad-air	tablet	apple	iPad Air	iPad Air	White iPad Air	
+ipad2	tablet	apple	iPad 2	iPad2	White iPad2	
+iphone3g	phone	apple	iPhone 3G	iPhone3G		
+iphone3gs	phone	apple	iPhone 3GS	iPhone3GS		
+iphone4	phone	apple	iPhone4	iPhone4	iPhone4	
+iphone5	phone	apple	iPhone5	iPhone5	iPhone5	
+iphone5s	phone	apple	iPhone5s	iPhone5s	iPhone5s	
+ixe	md	phytron		IXEa-A		
+k3nr	sensor	omron		K3NR		
+kenwood	dps	kenwood	PW-A Series	IF-41RS	Power Supply(Serial)	
+kindlehd	tablet	amazon	Kindle	Kindle Fire HD 8.9	9" Android Tab	
+kuro-hd	nas	kuro	KuroBox	Kurobako-HD	NAS 1Bay	
+kvm-aten	kvm	aten		CN-6000		
+lk2	sensor	lakeshore			Old	
+lk8	sensor	lakeshore		Model 340	8CH 	
+ltx16ch	ds	lantronix		ETS16PR		
+ltx32ch	ds	lantronix		ETS32PR		
+ltx8ch	ds	lantronix		ETS8P		
+ma7	note	gateway		MA-7		
+mac-air1	note	apple	MacBookAir		Core2Duo/SDD128GB	
+mac-air2	note	apple	MacBookAir			
+mac-mini	desktop	apple	iMac Mini		Core-i5	
+mela	plc	mitsubishi	MELSEC-A		A-Series	
+melq	plc	mitsubishi	MELSEC-Q		PLC for Cart (Q series)	
+mlp	plc	mitsubishi	MLP3		Telescope	
+mt6821	note	gateway		MT-6821	Note Book	
+nexus10	tablet	samsung	Nexus10	Nexus10	10" Android Tab	
+nexus7	tablet	google	Nexus7	Nexus7HD	7" Android Tab	
+obr	wbr				Old Wireless Bridge	
+ohmic	sensor	ohmic			Dew Sensor	
+omap	sensor	omega		PX971	Air Pressure Sensor	
+omco	dps	omega		D4251	Current Output	
+omfl	sensor	omega			Flow Meter	
+omhp	sensor	omega			Helium Pressure Sensor	
+omhu	sensor	omega			Humidity Sensor	
+p4sce	rack	supermicro		P4SCE	Rack mount server (CIAX)	
+pavilion	desktop	hp	Pavilion Elite	HPE-470f	AMD-6core	
+pdsml	rack	supermicro		PDSML	Rack mount server (CXWS2)	
+pdu-b	pdu	apc		AP7900	APC 8ch PDU(Black)	
+pdu-w	pdu	apc		AP9211	OLD 8ch PDU(White Type)	
+pi2	fapc	raspberry	Pi	2		
+pibp	fapc	raspberry	Pi	B plus		
+ps2	game	sony	PS2			
+ps3	game	sony	PS3			
+psp	dps	gwinstek		PSP-603	Power Supply(Switch)	
+pulizzi	pdu	pulizzi		IPC3402-NET	PDU	
+qnap	nas	qnap		TS-469 Pro	NAS 4Bay	
+sentorr	sensor	varian	SenTorr		Vacuum Sensor	
+sigma	md	sigma	CSG		X-Stage	
+slosyn	md	slosyn		SS6000i		
+sparc	desktop	sun	Ultra-2		sparc ultra 2	
+srm1	plc	omron		SRM1		
+startech	kvm	startech		SV1110IPEXT	KVM o/IP Startech	
+startech8ch	kvm	startech		SV841HDIE	KVM o/IP 8ch	
+systemax	note	systemax	Medallion XVII		Full HD Note T7250	
+thinkpad	note	ibm	ThinkPad		Windows 2000	
+tpg	sensor	pfeiffor		TPG262	Vacuum Sensor	
+twinwan	router	xincom	TWIN WAN	XC-DPG402	Twin Wan Router	
+uniden	cam	uniden		security-cam-c03		
+ups750	ups	apc	Smart-UPS	750RM		
+varian	cntrl	varian			Scroll Pump	
+visio	tv	visio		E551D-A0	60" TV	
+vivi	cam	univivi		U611W	Outdoor Wireless IP Camera	
+wap	wap	lnksys			Wifi Access Point	
+wbr	wbr	lnksys			Wifi Bridge	
+wii	game	nintendo	Wii	Wii		
+xbox	game	microsoft	Xbox360	Xbox360		
+xperia	phone	sony	Xperia	Z3	Xperia Z3	
+yokogawa	other	yokogawa		DL750	Oscilloscope?	
+z800	desktop	hp		Z 800	HP Z800 Workstation	
+zenbook	note	asus	ZenBook	ZenBook	Full HD Ultra Note	
