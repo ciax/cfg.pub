@@ -12,6 +12,7 @@ bravia	tv	sony	Bravia	KDL-46EX711	46" TV
 brother	printer	brother		MFC-7860W	Laser Printer	
 buffalo	router	buffalo		WZR-HP-G300H	DD-WRT	
 c200	plc	omron		C200HS		
+canakit	usb-w	ralink	Canakit	5370	Wifi Dongle 11n	
 cfp	dio	ni	Field Point		Check Sum needed	
 cj2	plc	omron		CJ2M-CPU33	PLC for Station	
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300	Pan-Tilt	
@@ -19,6 +20,7 @@ dell	desktop	dell
 di804	router	dlink		DI-804-HV	VPN Router	
 dns323	nas	dlink		DNS-323	NAS 2Bay	
 ea4500	router	lnksys		EA4500	Kida Router	
+edimax	usb-w	realtek	Edimax	EW-7811Un	Wifi Dongle 150Mbps 11n	
 elitebook	note	hp	Elite Book	8730w	Full HD Note	
 emachines	desktop	emachines		C2881	Celeron	
 essentio	desktop	asus	Essentio	CM6870-US-3AD	Core-i7	
@@ -61,6 +63,7 @@ mac-air2	note	apple	MacBookAir
 mac-mini	desktop	apple	iMac Mini		Core-i5	
 mela	plc	mitsubishi	MELSEC-A		A-Series	
 melq	plc	mitsubishi	MELSEC-Q		PLC for Cart (Q series)	
+milano	usb-w	reltek	Prestage Milano	8176	Sold by Prestage Milano	
 mlp	plc	mitsubishi	MLP3		Telescope	
 mt6821	note	gateway		MT-6821	Note Book	
 nexus10	tablet	samsung	Nexus10	Nexus10	10" Android Tab	
