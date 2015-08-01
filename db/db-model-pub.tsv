@@ -63,10 +63,11 @@ mac-air2	note	apple	MacBookAir
 mac-mini	desktop	apple	iMac Mini		Core-i5	
 mela	plc	mitsubishi	MELSEC-A		A-Series	
 melq	plc	mitsubishi	MELSEC-Q		PLC for Cart (Q series)	
-milano	usb-w	reltek	Prestage Milano	8176	Sold by Prestage Milano	
+milano	usb-w	realtek	Prestage Milano	8176	Sold by Prestage Milano	
 mlp	plc	mitsubishi	MLP3		Telescope	
 mt6821	note	gateway		MT-6821	Note Book	
 nexus10	tablet	samsung	Nexus10	Nexus10	10" Android Tab	
+nexus5	phone	lg	Nexu5	Nexu5	5" Android Phone	
 nexus7	tablet	google	Nexus7	Nexus7HD	7" Android Tab	
 obr	wbr				Old Wireless Bridge	
 ohmic	sensor	ohmic			Dew Sensor	
