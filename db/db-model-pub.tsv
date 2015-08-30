@@ -108,6 +108,7 @@ wap	wap	lnksys			Wifi Access Point
 wbr	wbr	lnksys			Wifi Bridge	
 wii	game	nintendo	Wii	Wii		
 xbox	game	microsoft	Xbox360	Xbox360		
+xbox-one	game	microsoft	Xbox One	Xbox One		
 xperia	phone	sony	Xperia	Z3	Xperia Z3	
 yokogawa	other	yokogawa		DL750	Oscilloscope?	
 z800	desktop	hp		Z 800	HP Z800 Workstation	
