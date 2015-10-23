@@ -16,7 +16,8 @@ canakit	usb-w	ralink	Canakit	5370	Wifi Dongle 11n
 cfp	dio	ni	Field Point		Check Sum needed	
 cj2	plc	omron		CJ2M-CPU33	PLC for Station	
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300	Pan-Tilt	
-dell	desktop	dell				
+dell-old	desktop	dell	OptiPlex			
+dell7020	desktop	dell	OptiPlex	7020		
 di804	router	dlink		DI-804-HV	VPN Router	
 dns323	nas	dlink		DNS-323	NAS 2Bay	
 ea4500	router	lnksys		EA4500	Kida Router	
@@ -107,6 +108,7 @@ vivi	cam	univivi		U611W	Outdoor Wireless IP Camera
 wap	wap	lnksys			Wifi Access Point	
 wbr	wbr	lnksys			Wifi Bridge	
 wii	game	nintendo	Wii	Wii		
+wintab	tablet		nextbook	Flexx11	Windows Tablet	
 xbox	game	microsoft	Xbox360	Xbox360		
 xbox-one	game	microsoft	Xbox One	Xbox One		
 xperia	phone	sony	Xperia	Z3	Xperia Z3	
