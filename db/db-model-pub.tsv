@@ -33,6 +33,7 @@ fmv	note	fujitsu	FMV
 fpa	dio	ni	Field Point	FP-AI-100	Analog Input	
 fpeth	dio	ni	Field Point	FP-1600	Old FP Network Module	
 fpsel	dio	ni	Field Point	FP-1100	Old FP Serial Module	
+galaxy	phone	samsung	Galaxy Note 5	Note 5		
 gcast	mp	google	ChromeCast	Chromecast	HDMI Dongle	
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD	PLC Console Handy Type	
 got-w	console	mitsubishi	GOT	GT1565-VTBA	PLC console	
