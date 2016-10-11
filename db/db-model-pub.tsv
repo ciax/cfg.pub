@@ -35,6 +35,7 @@ fpeth	dio	ni	Field Point	FP-1600	Old FP Network Module
 fpsel	dio	ni	Field Point	FP-1100	Old FP Serial Module	
 galaxy	phone	samsung	Galaxy Note 5	Note 5		
 gcast	mp	google	ChromeCast	Chromecast	HDMI Dongle	
+gcast2	mp	google	ChromeCast2		HDMI Dongle w/803.11ac	
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD	PLC Console Handy Type	
 got-w	console	mitsubishi	GOT	GT1565-VTBA	PLC console	
 gs700	switch	netgear		GS700TS	16ch Switch with SFP	
