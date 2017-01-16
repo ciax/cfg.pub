@@ -99,8 +99,10 @@ ps3	game	sony	PS3
 psp	dps	gwinstek		PSP-603		Power Supply(Switch)	
 pulizzi	pdu	pulizzi		IPC3402-NET		PDU	
 qnap	nas	qnap		TS-469 Pro		NAS 4Bay	
+qnap-mini	nas	qnap		TS-453mini		NAS 4Bay	
 sentorr	sensor	varian	SenTorr			Vacuum Sensor	
 sigma	md	sigma	CSG			X-Stage	
+slingbox	ms	sling	Slingbox	350		Slingbox	
 slosyn	md	slosyn		SS6000i			
 sparc	desktop	sun	Ultra-2			sparc ultra 2	
 srm1	plc	omron		SRM1			
