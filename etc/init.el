@@ -43,8 +43,6 @@
 ;   (define-key c-mode-map "\C-c]" 'insert-brackets-region)
 ;   (define-key c-mode-map "\C-c\"" 'insert-double-quotation-region)
 ;)))
-;; PHP
-(setq php-indent-level 2)
 ;; Ruby debuuger
 (autoload 'rubydb "rubydb3x" "run rubydb on program file in buffer *gud-file*. the directory containing file becomes the initial working directory and source-file directory for your debugger." t)
 ;; TAB/EOL Space Hilight
@@ -99,4 +97,3 @@
 (setq web-mode-engines-alist
       '(("php"    . "\\.phtml\\'")
         ("blade"  . "\\.blade\\.")))
-(autoload 'web-mode "web" nil t)
