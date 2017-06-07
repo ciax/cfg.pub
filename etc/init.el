@@ -1,4 +1,12 @@
 ;link ~/.emacs.d/init.el
+;;Need package install
+;;M-x package-install
+;;> web-mode
+(package-initialize)
+(setq package-archives
+      '(("gnu" . "http://elpa.gnu.org/packages/")
+        ("melpa" . "http://melpa.org/packages/")
+        ("org" . "http://orgmode.org/elpa/")))
 ;; Load Path
 ;(setq load-path (cons "~/.emacs.d" load-path))
 ;; Syntax Hilight 
@@ -8,7 +16,7 @@
 ;; Select region Hilight
 (transient-mark-mode 1)
 ;; No tab for indent
-(setq-default indent-tabs-mode nil)
+(setq-default tab-width 2 indent-tabs-mode nil)
 ;; Tool bar delete(menu-bar-mode 0)
 ;; Add exe perm if begin from !#
 (add-hook 'after-save-hook
@@ -18,7 +26,7 @@
 ;; javascript-mode
 (add-to-list 'auto-mode-alist (cons  "\\.\\(js\\|as\\|json\\|jsn\\)\\'" 'javascript-mode))
 (autoload 'javascript-mode "javascript" nil t)
-(setq js-indent-level 4)
+(setq js-indent-level 2)
 ;; Bracket complement
 ;(add-hook 'emacs-lisp-mode-hook '(lambda() (progn
 ;    (define-key emacs-lisp-mode-map "(" 'insert-parens)
@@ -35,6 +43,8 @@
 ;   (define-key c-mode-map "\C-c]" 'insert-brackets-region)
 ;   (define-key c-mode-map "\C-c\"" 'insert-double-quotation-region)
 ;)))
+;; PHP
+(setq php-indent-level 2)
 ;; Ruby debuuger
 (autoload 'rubydb "rubydb3x" "run rubydb on program file in buffer *gud-file*. the directory containing file becomes the initial working directory and source-file directory for your debugger." t)
 ;; TAB/EOL Space Hilight
