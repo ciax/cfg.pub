@@ -40,7 +40,7 @@ gcast	mp	google	ChromeCast	Chromecast		HDMI Dongle
 gcast2	mp	google	ChromeCast2			HDMI Dongle w/803.11ac			
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
 got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
-gs108e	switch	netgear		GS108Ev3		8 port switch		password	192.168.0.239
+gs108e	switch	netgear	ProSAFE Plus	GS108Ev3		8 port switch		password	192.168.0.239
 gs700	switch	netgear		GS700TS		16ch Switch with SFP			
 gw831	desktop	gateway		GW 831GM		Pentium4			
 hoffer	cntrl	hoffer				Flow Controls			
