@@ -21,6 +21,7 @@ dell-old	desktop	dell	OptiPlex
 dell7020	desktop	dell	OptiPlex	7020					
 di804	router	dlink		DI-804-HV		VPN Router			
 dns323	nas	dlink		DNS-323		NAS 2Bay			
+dome	cam	ezview		DS-2CD1121-1					
 ea4500	router	lnksys		EA4500		Kida Router			
 edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n			
 elitebook	note	hp	Elite Book	8730w		Full HD Note			
@@ -38,6 +39,7 @@ fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module
 galaxy	phone	samsung	Galaxy Note 5	Note 5					
 gcast	mp	google	ChromeCast	Chromecast		HDMI Dongle			
 gcast2	mp	google	ChromeCast2			HDMI Dongle w/803.11ac			
+gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
 got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
 gs108e	switch	netgear	ProSAFE Plus	GS108Ev3		8 port switch		password	192.168.0.239
@@ -122,6 +124,7 @@ visio	tv	visio		E551D-A0		60" TV
 vivi	cam	univivi		U611W		Outdoor Wireless IP Camera			
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
+wg	health	weightguru	Weight Gurus			Wifi Scale			
 wii	game	nintendo	Wii	Wii					
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
 xbox	game	microsoft	Xbox360	Xbox360					
