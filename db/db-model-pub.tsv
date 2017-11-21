@@ -39,6 +39,7 @@ fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module
 galaxy	phone	samsung	Galaxy Note 5	Note 5					
 gcast	mp	google	ChromeCast	Chromecast		HDMI Dongle			
 gcast2	mp	google	ChromeCast2			HDMI Dongle w/803.11ac			
+ghome	speaker	google	Google Home	Home Mini					
 gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
 got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
@@ -57,6 +58,7 @@ iphone4	phone	apple	iPhone4	iPhone4		iPhone4
 iphone5	phone	apple	iPhone5	iPhone5		iPhone5			
 iphone5s	phone	apple	iPhone5s	iPhone5s		iPhone5s			
 iphone6	phone	apple	iPhone6	iPhone6		iPhone6 Black			
+iphone8	phone	apple	iPhone8	iPhone8					
 iphonese	phone	apple	iPhoneSE	iPhoneSE		iPhoneSE			
 ixe	md	phytron		IXEa-A					
 k3nr	sensor	omron		K3NR					
@@ -122,6 +124,7 @@ twinwan	router	xincom	TWIN WAN	XC-DPG402		Twin Wan Router
 uniden	cam	uniden		security-cam-c03					
 ups750	ups	apc	Smart-UPS	750RM					
 varian	cntrl	varian				Scroll Pump			
+viera	tv	panasonic	Biera	E5					
 visio	tv	visio		E551D-A0		60" TV			
 vivi	cam	univivi		U611W		Outdoor Wireless IP Camera			
 wap	wap	lnksys				Wifi Access Point			
