@@ -24,8 +24,9 @@ printer	Printer
 rack	Rackmount Server
 router	Router
 sensor	Sensor
+shub	Smart Network Switch
 speaker	Smart Speaker
-switch	Smart Switch
+splug	Smart Plug
 tablet	Tablet
 tv	Smat TV
 ups	UPS

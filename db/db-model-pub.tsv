@@ -27,7 +27,7 @@ edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n
 elitebook	note	hp	Elite Book	8730w		Full HD Note			
 emachines	desktop	emachines		C2881		Celeron			
 essentio	desktop	asus	Essentio	CM6870-US-3AD		Core-i7			
-ex495	nas	hp		EX495		NAS 4Bay			
+ex495	nas	hp	Media Smart	EX495		NAS 4Bay			
 ezcast	mp	ezcast	EZcast			HDMI Dongle			
 fapc	fapc	advantech							
 fitpc	fapc	fitpc		Fit-PC2		Atom			
@@ -36,15 +36,16 @@ foscam	cam	foscam	C1 Lite V2
 fpa	dio	ni	Field Point	FP-AI-100		Analog Input			
 fpeth	dio	ni	Field Point	FP-1600		Old FP Network Module			
 fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module			
-galaxy	phone	samsung	Galaxy Note 5	Note 5					
-gcast	mp	google	ChromeCast	Chromecast		HDMI Dongle			
-gcast2	mp	google	ChromeCast2			HDMI Dongle w/803.11ac			
-ghome	speaker	google	Google Home	Home Mini					
+galaxy	phone	samsung	Galaxy Note 5						
+gcast1	mp	google	ChromeCast			HDMI Dongle			
+gcast2	mp	google	GoogleCast2			HDMI Dongle w/803.11ac			
+gh-mini	speaker	google	Google Home mini			Google Home Mini			
+ghome	speaker	google	Google Home			Google Home Large			
 gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
 got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
-gs108e	switch	netgear	ProSAFE Plus	GS108Ev3		8 port switch		password	192.168.0.239
-gs700	switch	netgear		GS700TS		16ch Switch with SFP			
+gs108e	shub	netgear	ProSAFE Plus	GS108Ev3		8 port switch		password	192.168.0.239
+gs700	shub	netgear		GS700TS		16ch Switch with SFP			
 gw831	desktop	gateway		GW 831GM		Pentium4			
 hoffer	cntrl	hoffer				Flow Controls			
 hosafe	cam	hosafe	HOSAFE	1M81W	SY105384717				
@@ -52,14 +53,14 @@ hp2133	note	hp		HP2133		Mini Note
 ipad-air	tablet	apple	iPad Air	iPad Air		White iPad Air			
 ipad-pro	tablet	apple	iPad Pro	iPad Pro		White iPad Pro			
 ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
-iphone3g	phone	apple	iPhone 3G	iPhone3G					
-iphone3gs	phone	apple	iPhone 3GS	iPhone3GS					
-iphone4	phone	apple	iPhone4	iPhone4		iPhone4			
-iphone5	phone	apple	iPhone5	iPhone5		iPhone5			
-iphone5s	phone	apple	iPhone5s	iPhone5s		iPhone5s			
-iphone6	phone	apple	iPhone6	iPhone6		iPhone6 Black			
-iphone8	phone	apple	iPhone8	iPhone8					
-iphonese	phone	apple	iPhoneSE	iPhoneSE		iPhoneSE			
+iphone3g	phone	apple	iPhone 3G						
+iphone3gs	phone	apple	iPhone 3GS						
+iphone4	phone	apple	iPhone4			iPhone4			
+iphone5	phone	apple	iPhone5			iPhone5			
+iphone5s	phone	apple	iPhone5s			iPhone5s			
+iphone6	phone	apple	iPhone6			iPhone6 Black			
+iphone8	phone	apple	iPhone8						
+iphonese	phone	apple	iPhoneSE			iPhoneSE			
 ixe	md	phytron		IXEa-A					
 k3nr	sensor	omron		K3NR					
 kenwood	dps	kenwood	PW-A Series	IF-41RS		Power Supply(Serial)			
@@ -81,10 +82,10 @@ milano	usb-w	realtek	Prestage Milano	8176		Sold by Prestage Milano
 mlp	plc	mitsubishi	MLP3			Telescope			
 mt6821	note	gateway		MT-6821		Note Book			
 nexus10	tablet	samsung	Nexus10	Nexus10		10" Android Tab			
-nexus5	phone	lg	Nexus5	Nexus5		5" Android Phone			
+nexus5	phone	lg	Nexus5			5" Android Phone			
 nexus5x	phone	lg	Nexus5X	MTC19Z		5" Android Phone			
 nexus7	tablet	google	Nexus7	Nexus7HD		7" Android Tab			
-ntd-sw	game	nintendo	Switch	Switch					
+ntd-sw	game	nintendo	Switch						
 obr	wbr					Old Wireless Bridge			
 ohmic	sensor	ohmic				Dew Sensor			
 omap	sensor	omega		PX971		Air Pressure Sensor			
@@ -129,13 +130,14 @@ visio	tv	visio		E551D-A0		60" TV
 vivi	cam	univivi		U611W		Outdoor Wireless IP Camera			
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
+wemo	splug	wemo	Wemo	Mini		Wifi Smart Plug			
 wg	health	weightguru	Weight Gurus			Wifi Scale			
-wii	game	nintendo	Wii	Wii					
+wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
-xbox	game	microsoft	Xbox360	Xbox360					
-xbox-one	game	microsoft	Xbox One	Xbox One					
+xbox	game	microsoft	Xbox360						
+xbox-one	game	microsoft	Xbox One						
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
 yi	cam	yi	Dome Camera	YHS 1916	B01CW4BG4K	Dome Camera PT			
 yokogawa	other	yokogawa		DL750		Oscilloscope?			
 z800	desktop	hp		Z 800		HP Z800 Workstation			
-zenbook	note	asus	ZenBook	ZenBook		Full HD Ultra Note			
+zenbook	note	asus	ZenBook			Full HD Ultra Note			
