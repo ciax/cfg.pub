@@ -1,7 +1,7 @@
 blulay	Blulay Player
 cam	Web Camera
-cntrl	Controller
 console	Console for PLC
+cryo	Cryo Devices
 dc	Digital Camera
 desktop	Desktop PC
 dio	Distributed I/O
@@ -22,6 +22,7 @@ phone	Smatr Phone
 plc	PLC
 printer	Printer
 rack	Rackmount Server
+rem	Remote controller
 router	Router
 sensor	Sensor
 shub	Smart Network Switch
