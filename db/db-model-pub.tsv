@@ -136,9 +136,10 @@ vivi	cam	univivi		U611W		Outdoor Wireless IP Camera
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
 wemo	splug	wemo	Wemo	Mini		Wifi Smart Plug			
-wg	health	weightguru	Weight Gurus			Wifi Scale			
+wg	health	weightguru	Weight Gurus			Wifi Scale (US)			
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
+with	health	nokia	Withings			Wifi Scale (Japan)			
 xbox-one	game	microsoft	Xbox One						
 xbox360	game	microsoft	Xbox360						
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
