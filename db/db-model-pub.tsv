@@ -19,6 +19,7 @@ cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming 
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
 dell-old	desktop	dell	OptiPlex						
 dell7020	desktop	dell	OptiPlex	7020					
+dgs2208	hub	netgear		DGS-2208		8 port network switch			
 di804	router	dlink		DI-804-HV		VPN Router			
 dns323	nas	dlink		DNS-323		NAS 2Bay			
 dome	cam	ezview		DS-2CD1121-1					
@@ -44,12 +45,14 @@ ghome	speaker	google	Google Home			Google Home Large
 gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
 got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
 got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
-gs108e	shub	netgear	ProSAFE Plus	GS108Ev3		8 port switch		password	192.168.0.239
-gs700	shub	netgear		GS700TS		16ch Switch with SFP			
+gs108e	hub	netgear	ProSAFE Plus	GS108Ev3		8 port smart switch		password	192.168.0.239
+gs700	hub	netgear		GS700TS		16ch Switch with SFP			
+gs724	hub	netgear		GS724TS		24ch Switch with 4 SFP			
 gw831	desktop	gateway		GW 831GM		Pentium4			
 hoffer	cryo	hoffer				Flow Controls			
 hosafe	cam	hosafe	HOSAFE	1M81W	SY105384717				
 hp2133	note	hp		HP2133		Mini Note			
+imillet	pdu	imillet	iMillet			Wifi Smart Power Strip (USB4, NEMA4)			
 ipad-air	tablet	apple	iPad Air	iPad Air		White iPad Air			
 ipad-pro	tablet	apple	iPad Pro	iPad Pro		White iPad Pro			
 ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
@@ -116,7 +119,7 @@ sentorr	sensor	varian	SenTorr			Vacuum Sensor
 sigma	md	sigma	CSG			X-Stage			
 slingbox	ms	sling	Slingbox	350		Slingbox			
 slosyn	md	slosyn		SS6000i					
-sonoff	splug	sonoff	Sonoff			Wifi Power Switch			
+sonoff	spws	sonoff	Sonoff			Wifi Power Switch			
 sparc	desktop	sun	Ultra-2			sparc ultra 2			
 srm1	plc	omron		SRM1					
 startech	kvm	startech		SV1110IPEXT		KVM o/IP Startech			
@@ -135,7 +138,7 @@ visio	tv	visio		E551D-A0		60" TV
 vivi	cam	univivi		U611W		Outdoor Wireless IP Camera			
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
-wemo	splug	wemo	Wemo	Mini		Wifi Smart Plug			
+wemo	spws	wemo	Wemo	Mini		Wifi Smart Plug			
 wg	health	weightguru	Weight Gurus			Wifi Scale (US)			
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			

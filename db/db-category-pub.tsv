@@ -9,6 +9,7 @@ dps	DC Power Supply
 ds	Device Server
 fapc	FA PC
 game	Game Console
+hub	Network Switch
 kvm	KVM over IP
 md	Motor Driver
 mic	Remote micro phone
@@ -25,9 +26,8 @@ rack	Rackmount Server
 rem	Remote controller
 router	Router
 sensor	Sensor
-shub	Smart Network Switch
 speaker	Smart Speaker
-splug	Smart Plug
+spws	Smart Power Switch
 tablet	Tablet
 tv	Smat TV
 ups	UPS
