@@ -1,6 +1,6 @@
 ;link ~/.emacs.d/init.el
 ;; Load Path (C-h v load-path for confirm)
-(add-to-list 'load-path "/home/ciax/cfg.pub/etc")
+(add-to-list 'load-path "~/cfg.pub/etc")
 ;; Syntax Hilight 
 (global-font-lock-mode t)
 ;; Paren Hilight
