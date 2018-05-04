@@ -106,6 +106,7 @@ pdu-b	pdu	apc		AP7900		APC 8ch PDU(Black)
 pdu-w	pdu	apc		AP9211		OLD 8ch PDU(White Type)			
 pi2	fapc	raspberry	Pi	2B					
 pi3	fapc	raspberry	Pi	3B					
+pi3bp	fapc	raspberry	Pi	3B plus					
 pibp	fapc	raspberry	Pi	B plus					
 ps2	game	sony	PS2						
 ps3	game	sony	PS3						
