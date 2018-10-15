@@ -138,7 +138,7 @@ ups750	ups	apc	Smart-UPS	750RM
 varian	cryo	varian				Scroll Pump			
 viera	tv	panasonic	Biera	E5					
 visio	tv	visio		E551D-A0		60" TV			
-vivi	cam	univivi		U611W		Outdoor Wireless IP Camera			
+vivi	cam	univivi		U611W		Outdoor Wireless IP Camera	admin	admin	
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
 wemo	spws	wemo	Wemo	Mini		Wifi Smart Plug			
