@@ -110,6 +110,7 @@ pi2	fapc	raspberry	Pi	2B
 pi3	fapc	raspberry	Pi	3B					
 pi3bp	fapc	raspberry	Pi	3B plus					
 pibp	fapc	raspberry	Pi	B plus					
+precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
 ps2	game	sony	PS2						
 ps3	game	sony	PS3						
 psp	dps	gwinstek		PSP-603		Power Supply(Switch)			
