@@ -1,5 +1,7 @@
 #!/bin/bash
 echo $C3"Setting up cfg.pub"$C0
+cd $(dirname $0)
+git config credential.helper store
 cd
 [ -d utils ] || git clone https://github.com/ciax/utils.git
 . ~/utils/setup
