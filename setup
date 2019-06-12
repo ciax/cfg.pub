@@ -1,6 +1,6 @@
 #!/bin/bash
 echo $C3"Setting up cfg.pub"$C0
-cd $(dirname $0)
+cd ~/cfg.pub
 git config credential.helper store
 [ -e ~/clone-me ] || cp clone-me ~
 cd
