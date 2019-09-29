@@ -18,9 +18,9 @@ cfp	dio	ni	Field Point			Check Sum needed
 cj2	plc	omron		CJ2M-CPU33		PLC for Station			
 cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming PC			
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
+dell7020	desktop	dell	OptiPlex	7020					
 dell-old	desktop	dell	OptiPlex						
 dell-seeing	desktop	dell	OptiPlex	DHM					
-dell7020	desktop	dell	OptiPlex	7020					
 dgs2208	hub	netgear		DGS-2208		8 port network switch			
 di804	router	dlink		DI-804-HV		VPN Router			
 dns323	nas	dlink		DNS-323		NAS 2Bay			
@@ -55,13 +55,13 @@ gw831	desktop	gateway		GW 831GM		Pentium4
 hoffer	cryo	hoffer				Flow Controls			
 hosafe	cam	hosafe	HOSAFE	1M81W	SY105384717				
 hp2133	note	hp		HP2133		Mini Note			
-ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
 ibuy2	desktop	ibuy	Slate2	084i		Corei5-9400F,8GB,GTX1660Ti, SSD			
+ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
 imillet	pdu	imillet	iMillet			Wifi Smart Power Strip (USB4, NEMA4)			
-ipad-air	tablet	apple	iPad Air	iPad Air		White iPad Air			
-ipad-pro	tablet	apple	iPad Pro	iPad Pro		White iPad Pro			
-ipad-pro11	tablet	apple	iPad Pro	iPad Pro		Silver iPad Pro 11in			
 ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
+ipad-air	tablet	apple	iPad Air	iPad Air		White iPad Air			
+ipad-pro11	tablet	apple	iPad Pro	iPad Pro		Silver iPad Pro 11in			
+ipad-pro	tablet	apple	iPad Pro	iPad Pro		White iPad Pro			
 iphone3g	phone	apple	iPhone 3G						
 iphone3gs	phone	apple	iPhone 3GS						
 iphone4	phone	apple	iPhone4			iPhone4			
@@ -110,16 +110,16 @@ pdsml	rack	supermicro		PDSML		Rack mount server (CXWS2)
 pdu-b	pdu	apc		AP7900		APC 8ch PDU(Black)			
 pdu-w	pdu	apc		AP9211		OLD 8ch PDU(White Type)			
 pi2	fapc	raspberry	Pi	2B					
-pi3	fapc	raspberry	Pi	3B					
 pi3bp	fapc	raspberry	Pi	3B plus					
+pi3	fapc	raspberry	Pi	3B					
 pibp	fapc	raspberry	Pi	B plus					
 precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
 ps2	game	sony	PS2						
 ps3	game	sony	PS3						
 psp	dps	gwinstek		PSP-603		Power Supply(Switch)			
 pulizzi	pdu	pulizzi		IPC3402-NET		PDU			
-qnap	nas	qnap		TS-469 Pro		NAS 4Bay			
 qnap-mini	nas	qnap		TS-453mini		NAS 4Bay			
+qnap	nas	qnap		TS-469 Pro		NAS 4Bay			
 r7000	router	netgear	Nighthawk	R7000					
 rmmini	rem	broad	RM Mini			IR remote control			
 rmpro	rem	broad	RM Pro Plus			IR/RF remote control			
@@ -130,8 +130,8 @@ slosyn	md	slosyn		SS6000i
 sonoff	spws	sonoff	Sonoff			Wifi Power Switch			
 sparc	desktop	sun	Ultra-2			sparc ultra 2			
 srm1	plc	omron		SRM1					
-startech	kvm	startech		SV1110IPEXT		KVM o/IP Startech			
 startech8ch	kvm	startech		SV841HDIE		KVM o/IP 8ch			
+startech	kvm	startech		SV1110IPEXT		KVM o/IP Startech			
 surface	note	microsoft	Surface	Book 2		2 in 1			
 sv3c	cam	sv3c	Bullet Camera	SV-B11V-1080P-POE	SV-B01-1080PL	Bullet Camera			
 systemax	note	systemax	Medallion XVII			Full HD Note T7250			
@@ -151,8 +151,8 @@ wg	health	weightguru	Weight Gurus			Wifi Scale (US)
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
 with	health	nokia	Withings			Wifi Scale (Japan)			
-xbox-one	game	microsoft	Xbox One						
 xbox360	game	microsoft	Xbox360						
+xbox-one	game	microsoft	Xbox One						
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
 yi	cam	yi	Dome Camera	YHS 1916	B01CW4BG4K	Dome Camera PT			
 yokogawa	other	yokogawa		DL750		Oscilloscope?			
