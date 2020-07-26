@@ -112,11 +112,11 @@ pavilion	desktop	hp	Pavilion Elite	HPE-470f		AMD-6core
 pdsml	rack	supermicro		PDSML		Rack mount server (CXWS2)			
 pdu-b	pdu	apc		AP7900		APC 8ch PDU(Black)			
 pdu-w	pdu	apc		AP9211		OLD 8ch PDU(White Type)			
+pi1	fapc	raspberry	Pi	B plus					
 pi2	fapc	raspberry	Pi	2B					
 pi3	fapc	raspberry	Pi	3B					
-pi3bp	fapc	raspberry	Pi	3B plus					
-pi4	fapc	raspberry	Pi	4					
-pibp	fapc	raspberry	Pi	B plus					
+pi3p	fapc	raspberry	Pi	3B plus					
+pi4	fapc	raspberry	Pi	4B					
 pixel3	phone	google	Pixel 3						
 precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
 ps2	game	sony	PS2						
@@ -152,7 +152,7 @@ vivi	cam	univivi		U611W		Outdoor Wireless IP Camera	admin	admin
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
 wemo	spws	wemo	Wemo	Mini		Wifi Smart Plug			
-wex		buffalo		WEX-1166DHPS		Wifi Extender			
+wex	wex	buffalo		WEX-1166DHPS		Wifi Extender			
 wg	health	weightguru	Weight Gurus			Wifi Scale (US)			
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
@@ -164,3 +164,4 @@ yi	cam	yi	Dome Camera	YHS 1916	B01CW4BG4K	Dome Camera PT
 yokogawa	other	yokogawa		DL750		Oscilloscope?			
 z800	desktop	hp		Z 800		HP Z800 Workstation			
 zenbook	note	asus	ZenBook	UX31		Full HD Ultra Note (2012)			
+zte	phone	zte	Blade	V580					
