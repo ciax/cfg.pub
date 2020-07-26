@@ -11,7 +11,9 @@ bbe	dio	bbe		232SDD16
 blulay	blulay	panasonic		DMP-BDT320		Blulay			
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
 brother	printer	brother		MFC-7860W		Laser Printer			
-buffalo	router	buffalo		WZR-HP-G300H		DD-WRT			
+buf253	router	buffalo		WSR-2533DHPL		Yuki bought			
+buf300a	router	buffalo		WZR-HP-AG300H		JP			
+buf300g	router	buffalo		WZR-HP-G300NH		DD-WRT			
 c200	plc	omron		C200HS					
 canakit	usb-w	ralink	Canakit	5370		Wifi Dongle 11n			
 cfp	dio	ni	Field Point			Check Sum needed			
@@ -24,7 +26,7 @@ dell7020	desktop	dell	OptiPlex	7020
 dgs2208	hub	netgear		DGS-2208		8 port network switch			
 di804	router	dlink		DI-804-HV		VPN Router			
 dns323	nas	dlink		DNS-323		NAS 2Bay			
-dome	cam	ezview		DS-2CD1121-1					
+dome	cam	hikvision		DS-2CD1121-1					
 ea4500	router	lnksys		EA4500		Kida Router			
 edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n			
 elitebook	note	hp	Elite Book	8730w		Full HD Note			
@@ -70,6 +72,7 @@ iphone5s	phone	apple	iPhone5s			iPhone5s
 iphone6	phone	apple	iPhone6			iPhone6 Black			
 iphone8	phone	apple	iPhone8						
 iphonese	phone	apple	iPhoneSE			iPhoneSE			
+iphonese2	phone	apple	iPhoneSE	MXD22J/A		iPhoneSE(2020)			
 ixe	md	phytron		IXEa-A					
 k3nr	sensor	omron		K3NR					
 kenwood	dps	kenwood	PW-A Series	IF-41RS		Power Supply(Serial)			
@@ -112,7 +115,9 @@ pdu-w	pdu	apc		AP9211		OLD 8ch PDU(White Type)
 pi2	fapc	raspberry	Pi	2B					
 pi3	fapc	raspberry	Pi	3B					
 pi3bp	fapc	raspberry	Pi	3B plus					
+pi4	fapc	raspberry	Pi	4					
 pibp	fapc	raspberry	Pi	B plus					
+pixel3	phone	google	Pixel 3						
 precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
 ps2	game	sony	PS2						
 ps3	game	sony	PS3						
@@ -147,6 +152,7 @@ vivi	cam	univivi		U611W		Outdoor Wireless IP Camera	admin	admin
 wap	wap	lnksys				Wifi Access Point			
 wbr	wbr	lnksys				Wifi Bridge			
 wemo	spws	wemo	Wemo	Mini		Wifi Smart Plug			
+wex		buffalo		WEX-1166DHPS		Wifi Extender			
 wg	health	weightguru	Weight Gurus			Wifi Scale (US)			
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
