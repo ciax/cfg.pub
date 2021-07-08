@@ -12,7 +12,8 @@ bbe	dio	bbe		232SDD16
 blulay	blulay	panasonic		DMP-BDT320		Blulay			
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
 brother	printer	brother		MFC-7860W		Laser Printer			
-buf253	router	buffalo		WSR-2533DHPL		Yuki bought			
+buf2533	router	buffalo		WSR-2533DHP3		Kodaira (transix)			
+buf253L	router	buffalo		WSR-2533DHPL		Yuki bought			
 buf300a	router	buffalo		WZR-HP-AG300H		JP			
 buf300g	router	buffalo		WZR-HP-G300NH		DD-WRT			
 c200	plc	omron		C200HS					
