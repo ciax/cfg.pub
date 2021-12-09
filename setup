@@ -3,8 +3,8 @@ echo $C3"Setting up cfg.pub"$C0
 cd ~/cfg.pub
 git config credential.helper store
 [ -e ~/clone-me ] || cp clone-me ~
-#[ -d ~/cfg.def ] ||
 cd
+ln -s cfg.pub/etc . 2>/dev/null
 [ -d utils ] || git clone https://github.com/ciax/utils.git
 ~/utils/setup
-ln -sfT ~/cfg.pub ~/cfg.def
+
