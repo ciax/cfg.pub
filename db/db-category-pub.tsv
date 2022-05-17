@@ -9,7 +9,9 @@ dps	DC Power Supply
 ds	Device Server
 fapc	FA PC
 game	Game Console
+health	Health Gear
 hub	Network Switch
+inst	Measurement instruments
 kvm	KVM over IP
 md	Motor Driver
 mic	Remote micro phone
