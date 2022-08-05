@@ -32,6 +32,7 @@ dns323	nas	dlink		DNS-323		NAS 2Bay
 dome	cam	hikvision		DS-2CD1121-1					
 ea4500	router	lnksys		EA4500		Kida Router			
 edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n			
+efuy	cam	anker	Efuy	T8410525		Indoor Cam 2K Pan & Tilt			
 elitebook	note	hp	Elite Book	8730w		Full HD Note			
 emachines	desktop	emachines		C2881		Celeron			
 essentio	desktop	asus	Essentio	CM6870-US-3AD		Core-i7			
@@ -178,4 +179,4 @@ yi	cam	yi	Dome Camera	YHS 1916	B01CW4BG4K	Dome Camera PT
 yokogawa	other	yokogawa		DL750		Oscilloscope?			
 z800	desktop	hp		Z 800		HP Z800 Workstation			
 zenbook	note	asus	ZenBook	UX31		Full HD Ultra Note (2012)			
-zte	phone	zte	Blade	V580					
+zte	phone	zte	Blade	V580		Cheap Smart Phone			
