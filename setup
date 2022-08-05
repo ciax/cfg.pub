@@ -2,6 +2,7 @@
 echo $C3"Setting up cfg.pub"$C0
 cd ~/cfg.pub
 git config credential.helper store
+git config pull.rebase false
 [ -e ~/clone-me ] || cp clone-me ~
 cd
 ln -s cfg.pub/etc . 2>/dev/null
