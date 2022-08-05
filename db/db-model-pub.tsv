@@ -153,6 +153,7 @@ surface	note	microsoft	Surface	Book 2		2 in 1
 sv3c	cam	sv3c	Bullet Camera	SV-B11V-1080P-POE	SV-B01-1080PL	Bullet Camera			
 sv3c1	cam	sv3c	Bullet Camera	SV-B06W-720P-HX		Bullet Camera			
 systemax	note	systemax	Medallion XVII			Full HD Note T7250			
+tc65	cam	tplink	Tapo	TC65		Outside Camera			
 tera	nas	iodata		HDL2-S4.0	S4S0003854F3	NAS 4T			
 thinkpad	note	ibm	ThinkPad			Windows 2000			
 tpg	sensor	pfeiffor		TPG262		Vacuum Sensor			
