@@ -1,45 +1,45 @@
 acer20	note	acer	Aspire	4520		White Note			
 acer30	note	acer	Aspire	4530		Black Note			
 allin1	desktop	hp	All in one	20-c210		All in one			
-asante	cam	asante		PL1029		Pan-Tilt			
+asante	cam	asante	Asante	PL1029		Pan-Tilt			
 aspire7	note	acer	Aspire	A715-41G-R7X4		Rikus Note (2021)			
-asus-hd	note	asus		N53SV		Full HD Note			
+asus-hd	note	asus	Asus	N53SV		Full HD Note			
 aterm	router	nec	Aterm	BL190HW		au router			
-axis2100	cam	axis		AXIS 2100		Fixed IP Camera			
-axis2400	video	axis		AXIS 2400		Video Server			
-barix	mic	barix				Barix			
-bbe	dio	bbe		232SDD16					
-blulay	blulay	panasonic		DMP-BDT320		Blulay			
+axis2100	cam	axis	Axis	AXIS 2100		Fixed IP Camera			
+axis2400	video	axis	Axis	AXIS 2400		Video Server			
+barix	mic	barix	Barix			Barix			
+bbe	dio	bbe	Bbe	232SDD16					
+blulay	blulay	panasonic	Panasonic	DMP-BDT320		Blulay			
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
-brother	printer	brother		MFC-7860W		Laser Printer			
-buf2533	router	buffalo		WSR-2533DHP3		Kodaira (transix)			
-buf253L	router	buffalo		WSR-2533DHPL		Yuki bought			
-buf300a	router	buffalo		WZR-HP-AG300H		JP			
-buf300g	router	buffalo		WZR-HP-G300NH		DD-WRT			
-c200	plc	omron		C200HS					
+brother	printer	brother	Brother	MFC-7860W		Laser Printer			
+buf2533	router	buffalo	Airstation	WSR-2533DHP3		Kodaira (transix)			
+buf253L	router	buffalo	Airstation	WSR-2533DHPL		Yuki bought			
+buf300a	router	buffalo	Airstation	WZR-HP-AG300H		JP			
+buf300g	router	buffalo	Airstation	WZR-HP-G300NH		DD-WRT			
+c200	plc	omron	Omron	C200HS					
 canakit	usb-w	ralink	Canakit	5370		Wifi Dongle 11n			
 cfp	dio	ni	Field Point			Check Sum needed			
-cj2	plc	omron		CJ2M-CPU33		PLC for Station			
+cj2	plc	omron	Omron	CJ2M-CPU33		PLC for Station			
 cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming PC			
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
+dell7020	desktop	dell	OptiPlex	7020					
 dell-old	desktop	dell	OptiPlex						
 dell-seeing	desktop	dell	OptiPlex	DHM					
-dell7020	desktop	dell	OptiPlex	7020					
-dgs2208	hub	netgear		DGS-2208		8 port network switch			
-di804	router	dlink		DI-804-HV		VPN Router			
-ding	cam	dingbangg							
-dns323	nas	dlink		DNS-323		NAS 2Bay			
-dome	cam	hikvision		DS-2CD1121-1					
-ea4500	router	lnksys		EA4500		Kida Router			
+dgs2208	hub	dlink	D-Link	DGS-2208		8 port network switch			
+di804	router	dlink	D-Link	DI-804-HV		VPN Router			
+ding	cam	dingbangg	Dingbangg						
+dns323	nas	dlink	Dlink	DNS-323		NAS 2Bay			
+dome	cam	hikvision	Hikvision	DS-2CD1121-1					
+ea4500	router	lnksys	Linksys	EA4500		Kida Router			
 edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n			
 efuy	cam	anker	Efuy	T8410525		Indoor Cam 2K Pan & Tilt			
 elitebook	note	hp	Elite Book	8730w		Full HD Note			
-emachines	desktop	emachines		C2881		Celeron			
+emachines	desktop	emachines	Emachines	C2881		Celeron			
 essentio	desktop	asus	Essentio	CM6870-US-3AD		Core-i7			
 ex495	nas	hp	Media Smart	EX495		NAS 4Bay			
 ezcast	mp	ezcast	EZcast			HDMI Dongle			
-fapc	fapc	advantech							
-fitpc	fapc	fitpc		Fit-PC2		Atom			
+fapc	fapc	advantech	Advantech						
+fitpc	fapc	fitpc	Fit-PC	Fit-PC2		Atom			
 fmv	note	fujitsu	FMV						
 foscam	cam	foscam	C1 Lite V2						
 fpa	dio	ni	Field Point	FP-AI-100		Analog Input			
@@ -48,30 +48,30 @@ fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module
 galaxy	phone	samsung	Galaxy Note 5						
 gcast1	mp	google	ChromeCast			HDMI Dongle			
 gcast2	mp	google	GoogleCast2			HDMI Dongle w/803.11ac			
-gh-mini	speaker	google	Google Home mini			Google Home Mini			
-ghome	speaker	google	Google Home			Google Home Large			
-ghub	speaker	google	Google Home Hub			Google Home w/Display			
-gnest	speaker	google	Google Nest Hub			Google Home w/Display			
+gh-mini	speaker	google	Google Home	Mini		Smart Speaker Mini			
+ghome	speaker	google	Google Home			Smart Speaker Large			
+ghub	speaker	google	Google Home	Hub		Smart Speaker w/Display			
+gnest	speaker	google	Google Nest	Hub		Smart Speaker w/Display			
 gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
-got-s	console	mitsubishi	GOT	GT1665HS-VTBD		PLC Console Handy Type			
-got-w	console	mitsubishi	GOT	GT1565-VTBA		PLC console			
+got-s	console	mitsubishi	MELCO	GT1665HS-VTBD		GOT/PLC Console Handy Type			
+got-w	console	mitsubishi	MELCO	GT1565-VTBA		GOT/PLC console			
 gs108e	hub	netgear	ProSAFE Plus	GS108Ev3		8 port smart switch		password	192.168.0.239
-gs308e	hub	netgear		GS308E-100JPS		9 port smart switch			
-gs700	hub	netgear		GS700TS		16ch Switch with SFP			
-gs724	hub	netgear		GS724TS		24ch Switch with 4 SFP			
-gw831	desktop	gateway		GW 831GM		Pentium4			
-hoffer	cryo	hoffer				Flow Controls			
+gs308e	hub	netgear	Netgear	GS308E-100JPS		9 port smart switch			
+gs700	hub	netgear	Netgear	GS700TS		16ch Switch with SFP			
+gs724	hub	netgear	Netgear	GS724TS		24ch Switch with 4 SFP			
+gw831	desktop	gateway	Gateway	GW 831GM		Pentium4			
+hoffer	cryo	hoffer	Hoffer			Flow Controls			
 hosafe	cam	hosafe	HOSAFE	1MB1W	SY105384717				
-hp2133	note	hp		HP2133		Mini Note			
-ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
+hp2133	note	hp	Hp	HP2133		Mini Note			
 ibuy2	desktop	ibuy	Slate2	084i		Corei5-9400F,8GB,GTX1660Ti, SSD			
+ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
 imillet	pdu	imillet	iMillet			Wifi Smart Power Strip (USB4, NEMA4)			
 infinii	inst	keysight	InfiniiVision	DSOX1204A		Digital Storage Oscilloscope			
-ipad-air	tablet	apple	iPad Air	iPad Air		White iPad Air			
-ipad-pro	tablet	apple	iPad Pro	iPad Pro		White iPad Pro 12in			
-ipad-pro18	tablet	apple	iPad Pro	iPad Pro		Silver iPad Pro 2018 11in			
-ipad-pro20	tablet	apple	iPad Pro	iPad Pro		Silver iPad Pro 2020 11in			
 ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
+ipad-air	tablet	apple	iPad	iAir		White iPad Air			
+ipad-pro18	tablet	apple	iPad	Pro 11in (2018)		Silver iPad Pro 2018 11in			
+ipad-pro20	tablet	apple	iPad	Pro 11in (2020)		Silver iPad Pro 2020 11in			
+ipad-pro	tablet	apple	iPad	Pro 12in		White iPad Pro 12in			
 iphone3g	phone	apple	iPhone 3G						
 iphone3gs	phone	apple	iPhone 3GS						
 iphone4	phone	apple	iPhone4			iPhone4			
@@ -79,21 +79,21 @@ iphone5	phone	apple	iPhone5			iPhone5
 iphone5s	phone	apple	iPhone5s			iPhone5s			
 iphone6	phone	apple	iPhone6			iPhone6 Black			
 iphone8	phone	apple	iPhone8						
-iphonese	phone	apple	iPhoneSE			iPhoneSE			
 iphonese2	phone	apple	iPhoneSE	MXD22J/A		iPhoneSE(2020)			
+iphonese	phone	apple	iPhoneSE			iPhoneSE			
 iphonex	phone	apple	iPhoneX						
-ixe	md	phytron		IXEa-A					
-k3nr	sensor	omron		K3NR					
+ixe	md	phytron	Phytron	IXEa-A					
+k3nr	sensor	omron	Omron	K3NR		Pulse Meter			
 kenwood	dps	kenwood	PW-A Series	IF-41RS		Power Supply(Serial)			
-kindlehd	tablet	amazon	Kindle	Kindle Fire HD 8.9		9" Android Tab			
+kindlehd	tablet	amazon	Kindle	Fire HD 8.9		9" Android Tab			
 kuro-hd	nas	kuro	KuroBox	Kurobako-HD		NAS 1Bay			
-kvm-aten	kvm	aten		CN-6000					
-lk2	sensor	lakeshore				Old			
-lk8	sensor	lakeshore		Model 340		8CH 			
-ltx16ch	ds	lantronix		ETS16PR					
-ltx32ch	ds	lantronix		ETS32PR					
-ltx8ch	ds	lantronix		ETS8P					
-ma7	note	gateway		MA-7					
+kvm-aten	kvm	aten	Aten	CN-6000					
+lk2	sensor	lakeshore	Lakeshore			Old			
+lk8	sensor	lakeshore	Lakeshore	Model 340		8CH 			
+ltx16ch	ds	lantronix	Lantronix	ETS16PR					
+ltx32ch	ds	lantronix	Lantronix	ETS32PR					
+ltx8ch	ds	lantronix	Lantronix	ETS8P					
+ma7	note	gateway	Gateway	MA-7					
 mac-air1	note	apple	MacBookAir			Core2Duo/SDD128GB			
 mac-air2	note	apple	MacBookAir						
 mac-mini	desktop	apple	iMac Mini			Core-i5			
@@ -101,83 +101,83 @@ mela	plc	mitsubishi	MELSEC-A			A-Series
 melq	plc	mitsubishi	MELSEC-Q			PLC for Cart (Q series)			
 milano	usb-w	realtek	Prestage Milano	8176		Sold by Prestage Milano			
 mlp	plc	mitsubishi	MLP3			Telescope			
-mogo	mp	xgimi		XK13S		Projector			
-mt6821	note	gateway		MT-6821		Note Book			
-mx410	printer	canon		MX410		Ink Jet Printer			
+mogo	mp	xgimi	Xgimi	XK13S		Projector			
+mt6821	note	gateway	Gateway	MT-6821		Note Book			
+mx410	printer	canon	Pixma	MX410		Ink Jet Printer			
 nexus10	tablet	samsung	Nexus10	Nexus10		10" Android Tab			
 nexus5	phone	lg	Nexus5			5" Android Phone			
 nexus5x	phone	lg	Nexus5X	MTC19Z		5" Android Phone			
 nexus7	tablet	google	Nexus7	Nexus7HD		7" Android Tab			
 nintendo-sw	game	nintendo	Switch						
 obr	wbr					Old Wireless Bridge			
-ohmic	sensor	ohmic				Dew Sensor			
-omap	sensor	omega		PX971		Air Pressure Sensor			
-omco	dps	omega		D4251		Current Output			
-omfl	sensor	omega				Flow Meter			
-omhp	sensor	omega				Helium Pressure Sensor			
-omhu	sensor	omega				Humidity Sensor			
-p4sce	rack	supermicro		P4SCE		Rack mount server (CIAX)			
-pannovo	cam	pannovo				Spy Camera			
+ohmic	sensor	ohmic	Ohmic			Dew Sensor			
+omap	sensor	omega	Omega	PX971		Air Pressure Sensor			
+omco	dps	omega	Omega	D4251		Current Output			
+omfl	sensor	omega	Omega			Flow Meter			
+omhp	sensor	omega	Omega			Helium Pressure Sensor			
+omhu	sensor	omega	Omega			Humidity Sensor			
+p4sce	rack	supermicro	Supermicro	P4SCE		Rack mount server (CIAX)			
+pannovo	cam	pannovo	Pannovo			Spy Camera			
 pavilion	desktop	hp	Pavilion Elite	HPE-470f		AMD-6core			
-pdsml	rack	supermicro		PDSML		Rack mount server (CXWS2)			
-pdu-b	pdu	apc		AP7900		APC 8ch PDU(Black) / Press Buttonl for 5sec to get IP			
-pdu-w	pdu	apc		AP9211		OLD 8ch PDU(White Type)			
-pi1	fapc	raspberry	Pi	B plus					
-pi2	fapc	raspberry	Pi	2B					
-pi3	fapc	raspberry	Pi	3B					
-pi3p	fapc	raspberry	Pi	3B plus					
-pi4	fapc	raspberry	Pi	4B					
+pdsml	rack	supermicro	Supermicro	PDSML		Rack mount server (CXWS2)			
+pdu-b	pdu	apc	APC	AP7900		APC 8ch PDU(Black) / Press Buttonl for 5sec to get IP			
+pdu-w	pdu	apc	APC	AP9211		OLD 8ch PDU(White Type)			
+pi1	fapc	raspberry	Raspberry Pi	B plus					
+pi2	fapc	raspberry	Raspberry Pi	2B					
+pi3	fapc	raspberry	Raspberry Pi	3B					
+pi3p	fapc	raspberry	Raspberry Pi	3B plus					
+pi4	fapc	raspberry	Raspberry Pi	4B					
 pixel3	phone	google	Pixel 3						
 pixel6	phone	google	Pixel 6						
 precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
 ps2	game	sony	PS2						
 ps3	game	sony	PS3						
-psp	dps	gwinstek		PSP-603		Power Supply(Switch)			
-pulizzi	pdu	pulizzi		IPC3402-NET		PDU			
-qnap	nas	qnap		TS-469 Pro		NAS 4Bay			
-qnap-mini	nas	qnap		TS-453mini		NAS 4Bay			
-r7000	router	netgear	Nighthawk	R7000					
+psp	dps	gwinstek	Gwinstek	PSP-603		Power Supply(Switch)			
+pulizzi	pdu	pulizzi	Pulizzi	IPC3402-NET		PDU			
+qnap-mini	nas	qnap	QNAP	TS-453mini		NAS 4Bay			
+qnap	nas	qnap	QNAP	TS-469 Pro		NAS 4Bay			
+r7000	router	netgear	Nighthawk	R7000		Wifi Router			
 regza	desktop	toshiba	REGZA	LX10	PD71NBP-BHA	All in one			
 rmmini	rem	broad	RM Mini			IR remote control			
 rmpro	rem	broad	RM Pro Plus			IR/RF remote control			
 sentorr	sensor	varian	SenTorr			Vacuum Sensor			
 sigma	md	sigma	CSG			X-Stage			
 slingbox	ms	sling	Slingbox	350		Slingbox			
-slosyn	md	slosyn		SS6000i					
+slosyn	md	slosyn	Slosyn	SS6000i					
 sonoff	spws	sonoff	Sonoff			Wifi Power Switch			
 sparc	desktop	sun	Ultra-2			sparc ultra 2			
-srm1	plc	omron		SRM1					
-startech	kvm	startech		SV1110IPEXT		KVM o/IP Startech			
-startech8ch	kvm	startech		SV841HDIE		KVM o/IP 8ch			
+srm1	plc	omron	Omron	SRM1					
+startech8ch	kvm	startech	Startech	SV841HDIE		KVM o/IP 8ch			
+startech	kvm	startech	Startech	SV1110IPEXT		KVM o/IP Startech			
 surface	note	microsoft	Surface	Book 2		2 in 1			
-sv3c	cam	sv3c	Bullet Camera	SV-B11V-1080P-POE	SV-B01-1080PL	Bullet Camera			
-sv3c1	cam	sv3c	Bullet Camera	SV-B06W-720P-HX		Bullet Camera			
+sv3c1	cam	sv3c	SV3C	SV-B06W-720P-HX		Bullet Camera			
+sv3c	cam	sv3c	SV3C	SV-B11V-1080P-POE	SV-B01-1080PL	Bullet Camera			
 systemax	note	systemax	Medallion XVII			Full HD Note T7250			
 tc65	cam	tplink	Tapo	TC65		Outside Camera			
-tera	nas	iodata		HDL2-S4.0	S4S0003854F3	NAS 4T			
+tera	nas	iodata	IO data	HDL2-S4.0	S4S0003854F3	NAS 4T			
 thinkpad	note	ibm	ThinkPad			Windows 2000			
-tpg	sensor	pfeiffor		TPG262		Vacuum Sensor			
+tpg	sensor	pfeiffor	Pfeiffor	TPG262		Vacuum Sensor			
 twinwan	router	xincom	TWIN WAN	XC-DPG402		Twin Wan Router			
-uniden	cam	uniden		security-cam-c03					
-ups750	ups	apc	Smart-UPS	750RM					
+uniden	cam	uniden	Uniden	security-cam-c03					
+ups750	ups	apc	Smart-UPS	750RM		UPS			
 usba-e	usb-e								
-varian	cryo	varian				Scroll Pump			
-viera	tv	panasonic	Biera	E5					
-visio	tv	visio		E551D-A0		60" TV			
-vivi	cam	univivi		U611W		Outdoor Wireless IP Camera	admin	admin	
-wap	wap	lnksys				Wifi Access Point			
-wbr	wbr	lnksys				Wifi Bridge			
+varian	cryo	varian	Varian			Scroll Pump			
+viera	tv	panasonic	Biera	E5		Wall TV			
+visio	tv	visio	Visio	E551D-A0		60" TV			
+vivi	cam	univivi	Univivi	U611W		Outdoor Wireless IP Camera	admin	admin	
+wap	wap	lnksys	Linksys			Wifi Access Point			
+wbr	wbr	lnksys	Linksys			Wifi Bridge			
 wemo	spws	wemo	Wemo	Mini		Wifi Smart Plug			
-wex	wex	buffalo		WEX-1166DHPS		Wifi Extender			
+wex	wex	buffalo	Buffalo	WEX-1166DHPS		Wifi Extender			
 wg	health	weightguru	Weight Gurus			Wifi Scale (US)			
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
 with	health	nokia	Withings	Smart Body Analyzer	WS-50	Wifi Scale (Japan)			
-xbox-one	game	microsoft	Xbox One						
-xbox360	game	microsoft	Xbox360						
+xbox360	game	microsoft	Xbox	360					
+xbox-one	game	microsoft	Xbox	One					
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
-yi	cam	yi	Dome Camera	YHS 1916	B01CW4BG4K	Dome Camera PT			
-yokogawa	other	yokogawa		DL750		Oscilloscope?			
-z800	desktop	hp		Z 800		HP Z800 Workstation			
+yi	cam	yi	YI	YHS 1916	B01CW4BG4K	Dome Camera PT			
+yokogawa	other	yokogawa	Yokogawa	DL750		Oscilloscope?			
+z800	desktop	hp	HP	Z 800		HP Z800 Workstation			
 zenbook	note	asus	ZenBook	UX31		Full HD Ultra Note (2012)			
 zte	phone	zte	Blade	V580		Cheap Smart Phone			
