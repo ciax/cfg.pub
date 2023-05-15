@@ -104,7 +104,7 @@ mela	plc	mitsubishi	MELSEC-A			A-Series
 melq	plc	mitsubishi	MELSEC-Q			PLC for Cart (Q series)			
 milano	usb-w	realtek	Prestage Milano	8176		Sold by Prestage Milano			
 mlp	plc	mitsubishi	MLP3			Telescope			
-mogo	mp	xgimi	Xgimi	XK13S		Projector			
+mogo	mp	xgimi	Xgimi	XK13S	P_FHD_2020	Projector			
 mt25	router	glinet	GL.iNet	GL-MT2500		Sansho(Wireguard)			
 mt6821	note	gateway	Gateway	MT-6821		Note Book			
 mx410	printer	canon	Pixma	MX410		Ink Jet Printer			
@@ -181,6 +181,7 @@ wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet
 with	health	nokia	Withings	Smart Body Analyzer	WS-50	Wifi Scale (Japan)			
 xbox360	game	microsoft	Xbox	360					
 xbox-one	game	microsoft	Xbox	One					
+xbox-sx	game	microsoft	Xbox	Series X					
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
 yi	cam	yi	YI	YHS 1916	B01CW4BG4K	Dome Camera PT			
 yokogawa	other	yokogawa	Yokogawa	DL750		Oscilloscope?			
