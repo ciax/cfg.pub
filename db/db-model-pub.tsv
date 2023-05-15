@@ -23,7 +23,7 @@ cfp	dio	ni	Field Point			Check Sum needed
 cj2	plc	omron	Omron	CJ2M-CPU33		PLC for Station			
 cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming PC			
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
-dell7020	desktop	dell	OptiPlex	7020					
+dell7020	desktop	dell	OptiPlex	7020		Left in Subaru Office			
 dell-old	desktop	dell	OptiPlex						
 dell-seeing	desktop	dell	OptiPlex	DHM					
 dgs2208	hub	dlink	D-Link	DGS-2208		8 port network switch			
@@ -123,6 +123,7 @@ omhp	sensor	omega	Omega			Helium Pressure Sensor
 omhu	sensor	omega	Omega			Humidity Sensor			
 p4sce	rack	supermicro	Supermicro	P4SCE		Rack mount server (CIAX)			
 pannovo	cam	pannovo	Pannovo			Spy Camera			
+pavilion2	desktop	hp	Pavilion Elite	Azlock Mother Board		Upgrade Mother Board			
 pavilion	desktop	hp	Pavilion Elite	HPE-470f		AMD-6core			
 pdsml	rack	supermicro	Supermicro	PDSML		Rack mount server (CXWS2)			
 pdu-b	pdu	apc	APC	AP7900		APC 8ch PDU(Black) / Press Buttonl for 5sec to get IP			
