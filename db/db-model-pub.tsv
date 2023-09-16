@@ -9,7 +9,7 @@ axis2100	cam	axis	Axis	AXIS 2100		Fixed IP Camera
 axis2400	video	axis	Axis	AXIS 2400		Video Server			
 barix	mic	barix	Barix			Barix			
 bbe	dio	bbe	Bbe	232SDD16					
-bee59	desktop	beelink	Beelink	U59		Mini PC			
+bee59	desktop	beelink	Beelink	U59	U59V1-E-8256SD0W64PRO-A	Mini PC			
 blulay	blulay	panasonic	Panasonic	DMP-BDT320		Blulay			
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
 brother	printer	brother	Brother	MFC-7860W		Laser Printer			
@@ -29,6 +29,7 @@ dell-seeing	desktop	dell	OptiPlex	DHM
 dgs2208	hub	dlink	D-Link	DGS-2208		8 port network switch			
 di804	router	dlink	D-Link	DI-804-HV		VPN Router			
 ding	cam	dingbangg	Dingbangg						
+dm2571	inst	nf	NF	DM2571					
 dns323	nas	dlink	Dlink	DNS-323		NAS 2Bay			
 dome	cam	hikvision	Hikvision	DS-2CD1121-1					
 ea4500	router	lnksys	Linksys	EA4500		Kida Router			
