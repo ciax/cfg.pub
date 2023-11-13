@@ -23,9 +23,9 @@ cfp	dio	ni	Field Point			Check Sum needed
 cj2	plc	omron	Omron	CJ2M-CPU33		PLC for Station			
 cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming PC			
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
-dell7020	desktop	dell	OptiPlex	7020		Left in Subaru Office			
 dell-old	desktop	dell	OptiPlex						
 dell-seeing	desktop	dell	OptiPlex	DHM					
+dell7020	desktop	dell	OptiPlex	7020		Left in Subaru Office			
 dgs2208	hub	dlink	D-Link	DGS-2208		8 port network switch			
 di804	router	dlink	D-Link	DI-804-HV		VPN Router			
 ding	cam	dingbangg	Dingbangg						
@@ -52,9 +52,10 @@ fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module
 galaxy	phone	samsung	Galaxy Note 5						
 gcast1	mp	google	ChromeCast			HDMI Dongle			
 gcast2	mp	google	GoogleCast2			HDMI Dongle w/803.11ac			
+gh-hub	speaker	google	Google Home	Hub		Smart Speaker w/Display			
 gh-mini	speaker	google	Google Home	Mini		Smart Speaker Mini			
 ghome	speaker	google	Google Home			Smart Speaker Large			
-ghub	speaker	google	Google Home	Hub		Smart Speaker w/Display			
+gn-mini	speaker	google	Google Nest	Mini		Smart Speaker Mini			
 gnest	speaker	google	Google Nest	Hub		Smart Speaker w/Display			
 gopro3p	dc	gopro	HERO	3 plus		Gopro Hero 3 plus			
 got-s	console	mitsubishi	MELCO	GT1665HS-VTBD		GOT/PLC Console Handy Type			
@@ -67,15 +68,15 @@ gw831	desktop	gateway	Gateway	GW 831GM		Pentium4
 hoffer	cryo	hoffer	Hoffer			Flow Controls			
 hosafe	cam	hosafe	HOSAFE	1MB1W	SY105384717				
 hp2133	note	hp	Hp	HP2133		Mini Note			
-ibuy2	desktop	ibuy	Slate2	084i		Corei5-9400F,8GB,GTX1660Ti, SSD			
 ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
+ibuy2	desktop	ibuy	Slate2	084i		Corei5-9400F,8GB,GTX1660Ti, SSD			
 imillet	pdu	imillet	iMillet			Wifi Smart Power Strip (USB4, NEMA4)			
 infinii	inst	keysight	InfiniiVision	DSOX1204A		Digital Storage Oscilloscope			
-ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
 ipad-air	tablet	apple	iPad	iAir		White iPad Air			
+ipad-pro	tablet	apple	iPad	Pro 12in		White iPad Pro 12in			
 ipad-pro18	tablet	apple	iPad	Pro 11in (2018)		Silver iPad Pro 2018 11in			
 ipad-pro20	tablet	apple	iPad	Pro 11in (2020)		Silver iPad Pro 2020 11in			
-ipad-pro	tablet	apple	iPad	Pro 12in		White iPad Pro 12in			
+ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
 iphone3g	phone	apple	iPhone 3G						
 iphone3gs	phone	apple	iPhone 3GS						
 iphone4	phone	apple	iPhone4			iPhone4			
@@ -83,8 +84,8 @@ iphone5	phone	apple	iPhone5			iPhone5
 iphone5s	phone	apple	iPhone5s			iPhone5s			
 iphone6	phone	apple	iPhone6			iPhone6 Black			
 iphone8	phone	apple	iPhone8						
-iphonese2	phone	apple	iPhoneSE	MXD22J/A		iPhoneSE(2020)			
 iphonese	phone	apple	iPhoneSE			iPhoneSE			
+iphonese2	phone	apple	iPhoneSE	MXD22J/A		iPhoneSE(2020)			
 iphonex	phone	apple	iPhoneX						
 ixe	md	phytron	Phytron	IXEa-A					
 k3nr	sensor	omron	Omron	K3NR		Pulse Meter			
@@ -125,8 +126,8 @@ omhp	sensor	omega	Omega			Helium Pressure Sensor
 omhu	sensor	omega	Omega			Humidity Sensor			
 p4sce	rack	supermicro	Supermicro	P4SCE		Rack mount server (CIAX)			
 pannovo	cam	pannovo	Pannovo			Spy Camera			
-pavilion2	desktop	hp	Pavilion Elite	Azlock Mother Board		Upgrade Mother Board			
 pavilion	desktop	hp	Pavilion Elite	HPE-470f		AMD-6core			
+pavilion2	desktop	hp	Pavilion Elite	Azlock Mother Board		Upgrade Mother Board			
 pdsml	rack	supermicro	Supermicro	PDSML		Rack mount server (CXWS2)			
 pdu-b	pdu	apc	APC	AP7900		APC 8ch PDU(Black) / Press Buttonl for 5sec to get IP			
 pdu-w	pdu	apc	APC	AP9211		OLD 8ch PDU(White Type)			
@@ -142,8 +143,8 @@ ps2	game	sony	PS2
 ps3	game	sony	PS3						
 psp	dps	gwinstek	Gwinstek	PSP-603		Power Supply(Switch)			
 pulizzi	pdu	pulizzi	Pulizzi	IPC3402-NET		PDU			
-qnap-mini	nas	qnap	QNAP	TS-453mini		NAS 4Bay			
 qnap	nas	qnap	QNAP	TS-469 Pro		NAS 4Bay			
+qnap-mini	nas	qnap	QNAP	TS-453mini		NAS 4Bay			
 r7000	router	netgear	Nighthawk	R7000		Wifi Router			
 regza	desktop	toshiba	REGZA	LX10	PD71NBP-BHA	All in one			
 rmmini	rem	broad	RM	Mini 3		IR remote control			
@@ -155,11 +156,11 @@ slosyn	md	slosyn	Slosyn	SS6000i
 sonoff	spws	sonoff	Sonoff			Wifi Power Switch			
 sparc	desktop	sun	Ultra-2			sparc ultra 2			
 srm1	plc	omron	Omron	SRM1					
-startech8ch	kvm	startech	Startech	SV841HDIE		KVM o/IP 8ch			
 startech	kvm	startech	Startech	SV1110IPEXT		KVM o/IP Startech			
+startech8ch	kvm	startech	Startech	SV841HDIE		KVM o/IP 8ch			
 surface	note	microsoft	Surface	Book 2		2 in 1			
-sv3c1	cam	sv3c	SV3C	SV-B06W-720P-HX		Bullet Camera			
 sv3c	cam	sv3c	SV3C	SV-B11V-1080P-POE	SV-B01-1080PL	Bullet Camera			
+sv3c1	cam	sv3c	SV3C	SV-B06W-720P-HX		Bullet Camera			
 systemax	note	systemax	Medallion XVII			Full HD Note T7250			
 tc65	cam	tplink	Tapo	TC65		Outside Camera			
 tera	nas	iodata	IO data	HDL2-S4.0	S4S0003854F3	NAS 4T			
@@ -181,9 +182,9 @@ wguru	health	weightguru	Weight Gurus			Wifi Scale (US)
 wii	game	nintendo	Wii						
 wintab	tablet	nextbook	nextbook	Flexx11		Windows Tablet			
 with	health	nokia	Withings	Smart Body Analyzer	WS-50	Wifi Scale (Japan)			
-xbox360	game	microsoft	Xbox	360					
 xbox-one	game	microsoft	Xbox	One					
 xbox-sx	game	microsoft	Xbox	Series X					
+xbox360	game	microsoft	Xbox	360					
 xperia	phone	sony	Xperia	Z3		Xperia Z3			
 yi	cam	yi	YI	YHS 1916	B01CW4BG4K	Dome Camera PT			
 yokogawa	other	yokogawa	Yokogawa	DL750		Oscilloscope?			
