@@ -9,7 +9,6 @@ axis2100	cam	axis	Axis	AXIS 2100		Fixed IP Camera
 axis2400	video	axis	Axis	AXIS 2400		Video Server			
 barix	mic	barix	Barix			Barix			
 bbe	dio	bbe	Bbe	232SDD16					
-bee59	desktop	beelink	Beelink	U59	U59V1-E-8256SD0W64PRO-A	Mini PC			
 blulay	blulay	panasonic	Panasonic	DMP-BDT320		Blulay			
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
 brother	printer	brother	Brother	MFC-7860W		Laser Printer			
@@ -168,6 +167,7 @@ tera	nas	iodata	IO data	HDL2-S4.0	S4S0003854F3	NAS 4T
 thinkpad	note	ibm	ThinkPad			Windows 2000			
 tpg	sensor	pfeiffor	Pfeiffor	TPG262		Vacuum Sensor			
 twinwan	router	xincom	TWIN WAN	XC-DPG402		Twin Wan Router			
+u59	desktop	beelink	Beelink	U59	U59V1-E-8256SD0W64PRO-A	Mini PC			
 uniden	cam	uniden	Uniden	security-cam-c03					
 ups750	ups	apc	Smart-UPS	750RM		UPS			
 usba-e	usb-e								
