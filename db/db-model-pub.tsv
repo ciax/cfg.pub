@@ -50,6 +50,7 @@ fpa	dio	ni	Field Point	FP-AI-100		Analog Input
 fpeth	dio	ni	Field Point	FP-1600		Old FP Network Module			
 fpsel	dio	ni	Field Point	FP-1100		Old FP Serial Module			
 galaxy	phone	samsung	Galaxy Note 5						
+galil	md	galil	Galil	DMC-4040		4CH Motion Controller			
 gcast1	mp	google	ChromeCast			HDMI Dongle			
 gcast2	mp	google	GoogleCast2			HDMI Dongle w/803.11ac			
 gh-hub	speaker	google	Google Home	Hub		Smart Speaker w/Display			
@@ -114,6 +115,7 @@ mt25	router	glinet	GL.iNet	GL-MT2500		Sansho(Wireguard)
 mt30	router	glinet	GL.iNet	GL-MT3000		NAOJ-Desk			
 mt6821	note	gateway	Gateway	MT-6821		Note Book			
 mx410	printer	canon	Pixma	MX410		Ink Jet Printer			
+newport	md	newport	XPS	XPS-Q8					
 nexus10	tablet	samsung	Nexus10	Nexus10		10" Android Tab			
 nexus5	phone	lg	Nexus5			5" Android Phone			
 nexus5x	phone	lg	Nexus5X	MTC19Z		5" Android Phone			
