@@ -19,6 +19,7 @@ buf300g	router	buffalo	Airstation	WZR-HP-G300NH		DD-WRT
 c200	plc	omron	Omron	C200HS					
 canakit	usb-w	ralink	Canakit	5370		Wifi Dongle 11n			
 cfp	dio	ni	Field Point			Check Sum needed			
+chibifi	router	planex	Chibi Fi 4	MZK-DP300N		Wifi Extender			
 cj2	plc	omron	Omron	CJ2M-CPU33		PLC for Station			
 cybertron	desktop	cybertron	Palladium-1070X	790RJOT	GMPAL1070X26BU	Rikus Gaming PC			
 dcs5300	cam	dlink	BDCS5300..A2	DCS 5300		Pan-Tilt			
