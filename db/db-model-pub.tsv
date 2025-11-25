@@ -7,9 +7,11 @@ asus-hd	note	asus	Asus	N53SV		Full HD Note
 aterm	router	nec	Aterm	BL190HW		au router			
 axis2100	cam	axis	Axis	AXIS 2100		Fixed IP Camera			
 axis2400	video	axis	Axis	AXIS 2400		Video Server			
+b550	desktop	msi	MSI	B550M PRO-VHD		Ryzen 5 5600			
 barix	mic	barix	Barix			Barix			
 bbe	dio	bbe	Bbe	232SDD16					
 blulay	blulay	panasonic	Panasonic	DMP-BDT320		Blulay			
+boxx	desktop	boxx	Boxx	APEXX T3	B180836				
 bravia	tv	sony	Bravia	KDL-46EX711		46" TV			
 brother	printer	brother	Brother	MFC-7860W		Laser Printer			
 buf2533	router	buffalo	Airstation	WSR-2533DHP3		Kodaira (transix)			
@@ -207,4 +209,5 @@ yi	cam	yi	YI	YHS 1916	B01CW4BG4K	Dome Camera PT
 yokogawa	other	yokogawa	Yokogawa	DL750		Oscilloscope?			
 z800	desktop	hp	HP	Z 800		HP Z800 Workstation			
 zenbook	note	asus	ZenBook	UX31		Full HD Ultra Note (2012)			
+zenbook-s	note	asus	Asus	UX5406SA		Copilot + PC			
 zte	phone	zte	Blade	V580		Cheap Smart Phone			
