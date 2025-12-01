@@ -84,6 +84,7 @@ ipad-air	tablet	apple	iPad	iAir		White iPad Air
 ipad-pro18	tablet	apple	iPad	Pro 11in (2018)		Silver iPad Pro 2018 11in			
 ipad-pro20	tablet	apple	iPad	Pro 11in (2020)		Silver iPad Pro 2020 11in			
 ipad-pro	tablet	apple	iPad	Pro 12in		White iPad Pro 12in			
+iphone16e	phone	apple	iPhone16e						
 iphone3g	phone	apple	iPhone 3G						
 iphone3gs	phone	apple	iPhone 3GS						
 iphone4	phone	apple	iPhone4			iPhone4			
@@ -147,6 +148,7 @@ pi2	fapc	raspberry	Raspberry Pi	2B
 pi3	fapc	raspberry	Raspberry Pi	3B					
 pi3p	fapc	raspberry	Raspberry Pi	3B plus					
 pi4	fapc	raspberry	Raspberry Pi	4B					
+pixel10	phone	google	Pixel 10 Pro						
 pixel3	phone	google	Pixel 3						
 pixel6	phone	google	Pixel 6						
 precision	rack	dell	Precision	3930 Rack		Rack mount server (New CIAX)			
