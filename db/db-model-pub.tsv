@@ -157,7 +157,7 @@ ps3	game	sony	PS3
 psp	dps	gwinstek	Gwinstek	PSP-603		Power Supply(Switch)			
 ptp-server	ntp	timemachines	Time Machines	TM2500C	760-2500-000				
 pulizzi	pdu	pulizzi	Pulizzi	IPC3402-NET		PDU			
-qnap-433	nas	qnap							
+qnap-433	nas	qnap	QNAP	TS-433		NAS 4Bay			
 qnap-mini	nas	qnap	QNAP	TS-453mini		NAS 4Bay			
 qnap	nas	qnap	QNAP	TS-469 Pro		NAS 4Bay			
 r7000	router	netgear	Nighthawk	R7000		Wifi Router			
