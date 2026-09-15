@@ -34,6 +34,7 @@ ding	cam	dingbangg	Dingbangg
 dm2571	inst	nf	NF	DM2571					
 dns323	nas	dlink	Dlink	DNS-323		NAS 2Bay			
 dome	cam	hikvision	Hikvision	DS-2CD1121-1					
+dsox	inst	keysight	InfiniiVision	DSOX1204A		Digital Storage Oscilloscope			
 ea4500	router	lnksys	Linksys	EA4500		Kida Router			
 edimax	usb-w	realtek	Edimax	EW-7811Un		Wifi Dongle 150Mbps 11n			
 efuy	cam	anker	Efuy	T8410525		Indoor Cam 2K Pan & Tilt			
@@ -78,7 +79,6 @@ hp-business	note	hp		340S G7	9LY73BPA#ABJ
 ibuy2	desktop	ibuy	Slate2	084i		Corei5-9400F,8GB,GTX1660Ti, SSD			
 ibuy	desktop	ibuy	Special-B			Ryzen5/16GB, GTX1060/3G, SSD			
 imillet	pdu	imillet	iMillet			Wifi Smart Power Strip (USB4, NEMA4)			
-infinii	inst	keysight	InfiniiVision	DSOX1204A		Digital Storage Oscilloscope			
 ipad2	tablet	apple	iPad 2	iPad2		White iPad2			
 ipad-air	tablet	apple	iPad	iAir		White iPad Air			
 ipad-pro18	tablet	apple	iPad	Pro 11in (2018)		Silver iPad Pro 2018 11in			
